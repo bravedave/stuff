@@ -1,6 +1,6 @@
 # stuff
 
-This is necessarily my own work
+This is NOT necessarily my own work
 
 1. Quotes.json - addapted from https://gist.github.com/signed0/
 ```javascript
@@ -15,5 +15,5 @@ This is necessarily my own work
 
 ```
 
-2. Drum Beat - https://orangefreesounds.com/electronic-drum-beat-loop-110-bpm/
-3. 
+2. Electronic-drum-beat-loop-110-bpm.wav - https://orangefreesounds.com/electronic-drum-beat-loop-110-bpm/
+3. mixkit-positive-interface-beep-221.wav - https://mixkit.co/
